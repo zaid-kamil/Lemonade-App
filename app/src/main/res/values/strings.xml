@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lemonade App</string>
+    <string name="hello">Hello Lemonade App</string>
+    <string name="header" translatable="false">Some Cool Heading</string>
+    <string name="lemon_select" translatable="false">Click to select a lemon!</string>
+    <string name="lemon_squeeze" translatable="false">Click to juice the lemon!</string>
+    <string name="lemon_drink" translatable="false">Click to drink your lemonade!</string>
+    <string name="lemon_empty_glass" translatable="false">Click to start again!</string>
+    <string name="squeeze_count" translatable="false">Squeeze count: %1$d, keep squeezing!</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lemonade App</string>
+    <string name="hello">हैलो नींबू पानी ऐप</string>
+</resources>
